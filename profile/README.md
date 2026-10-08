@@ -17,8 +17,12 @@ Explore Landoria's Valheim mods and their repositories below.
 | [FirstPerson](https://github.com/landoria-gaming/Landoria.FirstPerson) | Adds a smooth first-person view with an adjustable field of view. | [YouTube](https://youtu.be/B66x3Gc5Vbw) | [Thunderstore](https://thunderstore.io/c/valheim/p/Landoria/FirstPerson/) |
 | [FreeFly](https://github.com/landoria-gaming/Landoria.FreeFly) | Adds a free camera for exploring, taking screenshots, and filming without admin permissions. | [YouTube](https://youtu.be/di3SqL7EBrc) | [Thunderstore](https://thunderstore.io/c/valheim/p/Landoria/FreeFly/) |
 | [GentleDeath](https://github.com/landoria-gaming/Landoria.GentleDeath) | Keeps equipable items after death and moves other items to your tombstone. | [YouTube](https://youtu.be/O61d6w3ZpVs) | [Thunderstore](https://thunderstore.io/c/valheim/p/Landoria/GentleDeath/) |
+| [HighJump](https://github.com/landoria-gaming/Landoria.HighJump) | Lets you adjust your character's jump height. | — | [Thunderstore](https://thunderstore.io/c/valheim/p/Landoria/HighJump/) |
+| [MapTeleport](https://github.com/landoria-gaming/Landoria.MapTeleport) | Teleports you to explored locations by modifier-clicking the map. | — | [Thunderstore](https://thunderstore.io/c/valheim/p/Landoria/MapTeleport/) |
+| [NearbyStorage](https://github.com/landoria-gaming/Landoria.NearbyStorage) | Lets you use nearby containers for storage, crafting, building, and refueling. | — | [Thunderstore](https://thunderstore.io/c/valheim/p/Landoria/NearbyStorage/) |
 | [QuickLaunch](https://github.com/landoria-gaming/Landoria.QuickLaunch) | Automatically resumes your last local world or multiplayer session. | [YouTube](https://youtu.be/K0r75KNOGc0) | [Thunderstore](https://thunderstore.io/c/valheim/p/Landoria/QuickLaunch/) |
 | [SagaCapture](https://github.com/landoria-gaming/Landoria.SagaCapture) | Records gameplay and cinematic camera footage into a single video. | [YouTube](https://youtu.be/_2L1In2dieM) | [Thunderstore](https://thunderstore.io/c/valheim/p/Landoria/SagaCapture/) |
+| [WorldCrawler](https://github.com/landoria-gaming/Landoria.WorldCrawler) | Rebuilds selected areas of a server world locally without access to its save files. | — | [Thunderstore](https://thunderstore.io/c/valheim/p/Landoria/WorldCrawler/) |
 
 ### Client and server mods
 
