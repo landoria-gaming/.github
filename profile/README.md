@@ -14,6 +14,7 @@ Explore Landoria's Valheim mods and their repositories below.
 
 | Mod | Description | Demo | Thunderstore |
 | --- | --- | --- | --- |
+| [AutoCloseDoors](https://github.com/landoria-gaming/Landoria.AutoCloseDoors) | Automatically closes doors you open when no player is nearby. | — | [Thunderstore](https://thunderstore.io/c/valheim/p/Landoria/AutoCloseDoors/) |
 | [FirstPerson](https://github.com/landoria-gaming/Landoria.FirstPerson) | Adds a smooth first-person view with an adjustable field of view. | [YouTube](https://youtu.be/B66x3Gc5Vbw) | [Thunderstore](https://thunderstore.io/c/valheim/p/Landoria/FirstPerson/) |
 | [FreeFly](https://github.com/landoria-gaming/Landoria.FreeFly) | Adds a free camera for exploring, taking screenshots, and filming without admin permissions. | [YouTube](https://youtu.be/di3SqL7EBrc) | [Thunderstore](https://thunderstore.io/c/valheim/p/Landoria/FreeFly/) |
 | [GentleDeath](https://github.com/landoria-gaming/Landoria.GentleDeath) | Keeps equipable items after death and moves other items to your tombstone. | [YouTube](https://youtu.be/O61d6w3ZpVs) | [Thunderstore](https://thunderstore.io/c/valheim/p/Landoria/GentleDeath/) |
